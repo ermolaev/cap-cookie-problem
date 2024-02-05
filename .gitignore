@@ -1,0 +1,7 @@
+.idea
+/node_modules
+yarn-debug.log*
+.yarn-integrity
+yarn-error.log
+.DS_Store
+android/app/src/main/res/raw/local*.crt
