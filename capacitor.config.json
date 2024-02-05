@@ -1,0 +1,15 @@
+{
+  "appId": "com.example.app",
+  "appName": "ccp",
+  "bundledWebRuntime": false,
+  "webDir": "dist",
+  "server": {
+    "allowNavigation": ["1953-82-140-219-20.ngrok-free.app"],
+    "cleartext": true
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}

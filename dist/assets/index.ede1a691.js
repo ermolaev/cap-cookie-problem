@@ -42,5 +42,5 @@ const p = function polyfill() {
 p();
 var style = "";
 window.addEventListener("DOMContentLoaded", async () => {
-  window.location.replace("https://de5f-82-140-219-20.ngrok-free.app");
+  window.location.replace("https://1953-82-140-219-20.ngrok-free.app");
 });
